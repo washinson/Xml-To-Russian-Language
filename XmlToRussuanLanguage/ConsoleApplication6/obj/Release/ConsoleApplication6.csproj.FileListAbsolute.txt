@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Release\ConsoleApplication6.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Release\ConsoleApplication6.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Release\ConsoleApplication6.csprojResolveAssemblyReference.cache
